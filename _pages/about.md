@@ -24,13 +24,13 @@ My research interest includes weakly-supervised semantic segmentation, land cove
 Email: **ashelee@whu.edu.cn**
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉 I got the Postdoc offer from Duke University.  
-- *2024.04*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
-- *2024.04*: &nbsp;🎉 The SegLand has been accepted by CVPR 2024 L3D-LIV Workshop.
-- *2024.04*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
-- *2024.02*: &nbsp;🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
-- *2023.07*: &nbsp;🎉 The SinoLC-1 has been downloaded over 100,000 times. 
-- *2023.03*: &nbsp;🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
+- *2024.Nov.*: &nbsp;🎉 I got the Postdoc offer from Duke University.  
+- *2024.Apr.*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
+- *2024.Apr.*: &nbsp;🎉 The SegLand has been accepted by CVPR 2024 L3D-LIV Workshop.
+- *2024.Apr.*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
+- *2024.Feb.*: &nbsp;🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
+- *2023.June*: &nbsp;🎉 The SinoLC-1 has been downloaded over 100,000 times. 
+- *2023.Mar.*: &nbsp;🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/CVPRW_Paper.png' alt="sym" width="100%"></div></div>
