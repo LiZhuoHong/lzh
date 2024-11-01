@@ -24,7 +24,7 @@ My research interest includes weakly-supervised semantic segmentation, land cove
 Email: **ashelee@whu.edu.cn**
 
 # 🔥 News
-- *2024.011*: &nbsp;🎉 I got the Postdoc offer from Duke University.  
+- *2024.11*: &nbsp;🎉 I got the Postdoc offer from Duke University.  
 - *2024.04*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
 - *2024.04*: &nbsp;🎉 The SegLand has been accepted by CVPR 2024 L3D-LIV Workshop.
 - *2024.04*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
