@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University. My advisors are Prof. [Hongyan Zhang](https://scholar.google.com/citations?user=fq7Uqx0AAAAJ&hl=en&oi=ao), Prof. [Wei He](https://prowdiy.github.io/weihe.github.io/), and Prof. [Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en&oi=ao). I received my B.S. degree in communication engineering in 2020 from Wuhan University. I am currently pursuing a Ph. D. degree and plan to graduate in June 2025. **It has been confirmed that I will join Duke University, USA for my postdoc career in 2025 fall, working with [Prof. Tong Qiu](https://scholar.google.com/citations?user=4JCY7mIAAAAJ&hl=en).
+I am a third-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University. My advisors are Prof. [Hongyan Zhang](https://scholar.google.com/citations?user=fq7Uqx0AAAAJ&hl=en&oi=ao), Prof. [Wei He](https://prowdiy.github.io/weihe.github.io/), and Prof. [Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en&oi=ao). I received my B.S. degree in communication engineering in 2020 from Wuhan University. I am currently pursuing a Ph. D. degree and plan to graduate in June 2025. 
 
 My research interest includes weakly-supervised semantic segmentation, land cover mapping, and large-scale Earth observation applications. 
 
 Email: **ashelee@whu.edu.cn**
 
 # 🔥 News
-- *2024.Nov.*: &nbsp;🎉 I got the Postdoc offer from Duke University.  
 - *2024.Apr.*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
 - *2024.Apr.*: &nbsp;🎉 The SegLand has been accepted by CVPR 2024 L3D-LIV Workshop.
 - *2024.Apr.*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
