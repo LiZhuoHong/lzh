@@ -41,7 +41,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 <div class='paper-box-text' markdown="1">
 [Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data](https://ieeexplore.ieee.org/document/10641437)
   
-[**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4.
+[**Data**](https://github.com/LiZhuoHong/BuildingMap/?tab=readme-ov-file) 
 
 **Zhuohong Li**, Wei He, Jiepan Li, Fangxiao Lu, Hongyan Zhang
 </div>
