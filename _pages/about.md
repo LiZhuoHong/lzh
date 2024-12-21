@@ -80,9 +80,13 @@ Google scholar: [Zhuohong Li](https://scholar.google.com/citations?user=cZt0JA4A
 </div>
 - [Overcoming the uncertainty challenges in detecting building changes from remote sensing images](https://www.sciencedirect.com/science/article/pii/S092427162400426X), Jiepan Li, Wei He, Zhuohong Li, Yujun Guo, Hongyan Zhang, **ISPRS P&RS 2024**
 - [Harmony in diversity: Content cleansing change detection framework for very-high-resolution remote-sensing images](https://www.sciencedirect.com/science/article/pii/S092427162400340X), Mofan Cheng, Wei He, Zhuohong Li, Guangyi Yang, Hongyan Zhang, **ISPRS P&RS 2024**
-- [Change Cross-Detection Based on Label Improvements and Multi-Model Fusion for Multi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9553120), Zhuohong Li, Fangxiao Lu, Hongyan Zhang, Guangyi Yang, Liangpei Zhang, **IGRASS 2020**
-- [Multi-stage pseudo-label iteration framework for semi-supervised land-cover mapping](https://ieeexplore.ieee.org/abstract/document/9884345), Zhuohong Li, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang, **IGRASS 2021**
+- [Cross-City Semantic Segmentation (C2Seg) in Multimodal Remote Sensing: Outcome of the 2023 IEEE WHISPERS C2Seg Challenge](https://ieeexplore.ieee.org/abstract/document/10517985), Yuheng Liu, Ye Wang, Yifan Zhang, Shaohui Mei, Jiaqi Zou, Zhuohong Li, Fangxiao Lu, Wei He, Hongyan Zhang, Huilin Zhao, Chuan Chen, Cong Xia, Hao Li, Gemine Vivone, Ronny Hänsch, Gulsen Taskin, Jing Yao, A Kai Qin, Bing Zhang, Jocelyn Chanussot, Danfeng Hong, **JSTARS 2024**
 - [Simultaneous Update of High-Resolution Land-Cover Mapping Attempt: Wuhan and the Surrounding Satellite Cities Cartography Using L2HNet](https://arxiv.org/pdf/2303.05305.pdf), Yan Huang, Yuqing Wang, Zhanbo Li, Zhuohong Li, Guangyi Yang, **JSTARS 2023**
+- [Multi-stage pseudo-label iteration framework for semi-supervised land-cover mapping](https://ieeexplore.ieee.org/abstract/document/9884345), Zhuohong Li, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang, **IGRASS 2021**
+- [Change Cross-Detection Based on Label Improvements and Multi-Model Fusion for Multi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9553120), Zhuohong Li, Fangxiao Lu, Hongyan Zhang, Guangyi Yang, Liangpei Zhang, **IGRASS 2020**
+- [Multimodal unsupervised domain adaptation for remote sensing image segmentation]([https://ieeexplore.ieee.org/abstract/document/9553120](https://ieeexplore.ieee.org/abstract/document/10431324)), Jiaqi Zou, Zhuohong Li, Fangxiao Lu, Wei He, Hongyan Zhang, **2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS) 2023**
+
+
 - [National-scale 1-m resolution land-cover mapping for the entire China based on a low-cost solution and open-access data](https://arxiv.org/pdf/2303.05305.pdf), Zhuohong Li, Wei He, Hongyan Zhang, **Arxiv**
 
 
