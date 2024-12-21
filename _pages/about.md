@@ -22,6 +22,7 @@ I am a third-year Ph.D. student in the State Key Laboratory of Information Engin
 My research interest includes weakly-supervised semantic segmentation, land cover mapping, and large-scale Earth observation applications. 
 
 Email: **ashelee@whu.edu.cn**
+Google scholar: [Zhuohong Li](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
 
 # 🔥 News
 - *2024.Dec.*: &nbsp;🎉 one papers have posted on AGU 2024 (Washington DC,USA). 
@@ -77,6 +78,8 @@ Email: **ashelee@whu.edu.cn**
 **Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Naoto Yokoya
 </div>
 </div>
+- [Overcoming the uncertainty challenges in detecting building changes from remote sensing images](https://www.sciencedirect.com/science/article/pii/S092427162400426X), Jiepan Li, Wei He, Zhuohong Li, Yujun Guo, Hongyan Zhang, **ISPRS P&RS 2024**
+- [Harmony in diversity: Content cleansing change detection framework for very-high-resolution remote-sensing images](https://www.sciencedirect.com/science/article/pii/S092427162400340X), Mofan Cheng, Wei He, Zhuohong Li, Guangyi Yang, Hongyan Zhang, **ISPRS P&RS 2024**
 - [Change Cross-Detection Based on Label Improvements and Multi-Model Fusion for Multi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9553120), Zhuohong Li, Fangxiao Lu, Hongyan Zhang, Guangyi Yang, Liangpei Zhang, **IGRASS 2020**
 - [Multi-stage pseudo-label iteration framework for semi-supervised land-cover mapping](https://ieeexplore.ieee.org/abstract/document/9884345), Zhuohong Li, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang, **IGRASS 2021**
 - [Simultaneous Update of High-Resolution Land-Cover Mapping Attempt: Wuhan and the Surrounding Satellite Cities Cartography Using L2HNet](https://arxiv.org/pdf/2303.05305.pdf), Yan Huang, Yuqing Wang, Zhanbo Li, Zhuohong Li, Guangyi Yang, **JSTARS 2023**
