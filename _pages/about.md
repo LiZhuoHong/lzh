@@ -17,13 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University. My advisors are Prof. [Hongyan Zhang](https://scholar.google.com/citations?user=fq7Uqx0AAAAJ&hl=en&oi=ao), Prof. [Wei He](https://prowdiy.github.io/weihe.github.io/), and Prof. [Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en&oi=ao). I received my B.S. degree in communication engineering in 2020 from Wuhan University. I am currently pursuing a Ph. D. degree and plan to graduate in June 2025. 
+I am a third-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing, Wuhan University. My advisors are Prof. [Hongyan Zhang](https://scholar.google.com/citations?user=fq7Uqx0AAAAJ&hl=en&oi=ao), Prof. [Wei He](https://prowdiy.github.io/weihe.github.io/), and Prof. [Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en&oi=ao). I received my B.S. degree in communication engineering in 2020 from Wuhan University. I am currently pursuing a Ph. D. degree and plan to graduate in June 2025. I comfirm that I will join Duke University for my Postdoc career.
 
 My research interest includes weakly-supervised semantic segmentation, land cover mapping, and large-scale Earth observation applications. 
 
 Email: **ashelee@whu.edu.cn**
 
 # 🔥 News
+- *2024.Dec.*: &nbsp;🎉 one papers have posted on AGU 2024 (Washington DC,USA). 
+- *2024.Nov.*: &nbsp;🎉 Two papers have accpected by ISPRS P&RS (IF=10.6). 
+- *2024.Oct.*: &nbsp;🎉 I received the Postdoc offer from Duke University. 
 - *2024.Apr.*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
 - *2024.Apr.*: &nbsp;🎉 The SegLand has been accepted by CVPR 2024 L3D-LIV Workshop.
 - *2024.Apr.*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
@@ -31,7 +34,7 @@ Email: **ashelee@whu.edu.cn**
 - *2023.June*: &nbsp;🎉 The SinoLC-1 has been downloaded over 100,000 times. 
 - *2023.Mar.*: &nbsp;🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
 
-# 📝 Publications 
+# 📝 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/CVPRW_Paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework]([https://arxiv.org/pdf/2404.12721])
