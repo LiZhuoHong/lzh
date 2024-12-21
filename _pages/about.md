@@ -37,15 +37,6 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 - *2023.Mar.*: &nbsp;🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
 
 # 📝 Selected Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/CVPRW_Paper.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework]([https://arxiv.org/pdf/2404.12721])
-
-[**Code and data**](https://github.com/LiZhuoHong/SegLand/)
-
-**Zhuohong Li**, Wei He, Jiepan Li, Hongyan Zhang
-</div>
-</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/Motivation_v3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data](https://ieeexplore.ieee.org/document/10641437)
@@ -53,6 +44,15 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 [**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4.
 
 **Zhuohong Li**, Wei He, Jiepan Li, Fangxiao Lu, Hongyan Zhang
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/CVPRW_Paper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework]([https://arxiv.org/pdf/2404.12721])
+
+[**Code and data**](https://github.com/LiZhuoHong/SegLand/)
+
+**Zhuohong Li**, Wei He, Jiepan Li, Hongyan Zhang
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="100%"></div></div>
@@ -83,11 +83,9 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 - [Harmony in diversity: Content cleansing change detection framework for very-high-resolution remote-sensing images](https://www.sciencedirect.com/science/article/pii/S092427162400340X), Mofan Cheng, Wei He, Zhuohong Li, Guangyi Yang, Hongyan Zhang, **ISPRS P&RS 2024**
 - [Cross-City Semantic Segmentation (C2Seg) in Multimodal Remote Sensing: Outcome of the 2023 IEEE WHISPERS C2Seg Challenge](https://ieeexplore.ieee.org/abstract/document/10517985), Yuheng Liu, Ye Wang, Yifan Zhang, Shaohui Mei, Jiaqi Zou, Zhuohong Li, Fangxiao Lu, Wei He, Hongyan Zhang, Huilin Zhao, Chuan Chen, Cong Xia, Hao Li, Gemine Vivone, Ronny Hänsch, Gulsen Taskin, Jing Yao, A Kai Qin, Bing Zhang, Jocelyn Chanussot, Danfeng Hong, **JSTARS 2024**
 - [Simultaneous Update of High-Resolution Land-Cover Mapping Attempt: Wuhan and the Surrounding Satellite Cities Cartography Using L2HNet](https://arxiv.org/pdf/2303.05305.pdf), Yan Huang, Yuqing Wang, Zhanbo Li, Zhuohong Li, Guangyi Yang, **JSTARS 2023**
+- [Multimodal unsupervised domain adaptation for remote sensing image segmentation]([https://ieeexplore.ieee.org/abstract/document/9553120](https://ieeexplore.ieee.org/abstract/document/10431324)), Jiaqi Zou, Zhuohong Li, Fangxiao Lu, Wei He, Hongyan Zhang, **2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS) 2023**
 - [Multi-stage pseudo-label iteration framework for semi-supervised land-cover mapping](https://ieeexplore.ieee.org/abstract/document/9884345), Zhuohong Li, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang, **IGRASS 2021**
 - [Change Cross-Detection Based on Label Improvements and Multi-Model Fusion for Multi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9553120), Zhuohong Li, Fangxiao Lu, Hongyan Zhang, Guangyi Yang, Liangpei Zhang, **IGRASS 2020**
-- [Multimodal unsupervised domain adaptation for remote sensing image segmentation]([https://ieeexplore.ieee.org/abstract/document/9553120](https://ieeexplore.ieee.org/abstract/document/10431324)), Jiaqi Zou, Zhuohong Li, Fangxiao Lu, Wei He, Hongyan Zhang, **2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS) 2023**
-
-
 - [National-scale 1-m resolution land-cover mapping for the entire China based on a low-cost solution and open-access data](https://arxiv.org/pdf/2303.05305.pdf), Zhuohong Li, Wei He, Hongyan Zhang, **Arxiv**
 
 
