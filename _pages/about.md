@@ -43,12 +43,12 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 
 [**Code and data**](https://github.com/LiZhuoHong/SegLand/)
 
-**Zhuohong Li**, Fangxiao Lu, Jiaqi Zou, Lei Hu, Hongyan Zhang
+**Zhuohong Li**, Wei He, Jiepan Li, Hongyan Zhang
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/Motivation_v3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels **(Highlight)**](https://arxiv.org/abs/2403.02746)
+[Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data](https://ieeexplore.ieee.org/document/10641437)
   
 [**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4.
 
