@@ -22,7 +22,8 @@ I am a third-year Ph.D. student in the State Key Laboratory of Information Engin
 My research interest includes weakly-supervised semantic segmentation, land cover mapping, and large-scale Earth observation applications. 
 
 Email: **ashelee@whu.edu.cn**
-Google scholar: [Zhuohong Li](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
+
+Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
 
 # 🔥 News
 - *2024.Dec.*: &nbsp;🎉 one papers have posted on AGU 2024 (Washington DC,USA). 
