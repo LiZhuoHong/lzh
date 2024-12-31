@@ -26,8 +26,10 @@ Email: **ashelee@whu.edu.cn**
 Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
 
 # 🔥 News
-- *2024.Dec.*: &nbsp;🎉 one papers have posted on AGU 2024 (Washington DC,USA). 
-- *2024.Nov.*: &nbsp;🎉 Two papers have accpected by ISPRS P&RS (IF=10.6). 
+- *2024.Dec.*: &nbsp;🎉 I have received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor for students in the remote-sensing field of Wuhan University.
+- *2024.Dec.*: &nbsp;🎉 I have won the 2024 National Scholarship for Graduate Student (博士研究生国家奖学金), ranking FIRST among all students in LIESMARS, Wuhan University.
+- *2024.Dec.*: &nbsp;🎉 one paper has been posted on AGU 2024 (Washington DC,USA). 
+- *2024.Nov.*: &nbsp;🎉 Two papers have accepted by ISPRS P&RS (IF=10.6). 
 - *2024.Oct.*: &nbsp;🎉 I received the Postdoc offer from Duke University. 
 - *2024.Apr.*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
 - *2024.Apr.*: &nbsp;🎉 The SegLand has been accepted by CVPR 2024 L3D-LIV Workshop.
