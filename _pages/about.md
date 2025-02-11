@@ -26,6 +26,7 @@ Email: **ashelee@whu.edu.cn**; **zhuohong.li@duke.edu**
 Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
 
 # 🔥 News
+- *2025.Feb.*: &nbsp;🎉 As an outstanding student representative, my stories during PhD studies were published in the journal "Chinese Graduate Students" by the Ministry of Education of China. [**Check here**](https://ersp.lib.whu.edu.cn/s/net/cnki/kns/G.https/kcms2/article/abstract?v=d24vdHNzaZj3AJ4BwzkIi-WAlZGNfoUsbXPlOYK_gFd6ZV8EfLaUoseBF0AZHTxBpJHywq1FjCOnOiFqHScflj2IEHMDudShU0YuxHFrt4Q2jjX-laKlBmwniZrnE9HEWum_ewuBEltnuF4O12_y51PXFSt-iOOf0ZrjjGnR5M3TcjyZmzKHw0LV5_PYyMPt&uniplatform=NZKPT&language=CHS).
 - *2024.Dec.*: &nbsp;🎉 I have received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor for students in the remote-sensing field of Wuhan University.
 - *2024.Dec.*: &nbsp;🎉 I have won the 2024 National Scholarship for Graduate Student (博士研究生国家奖学金), ranking FIRST among all students in LIESMARS, Wuhan University.
 - *2024.Dec.*: &nbsp;🎉 one paper has been posted on AGU 2024 (Washington DC,USA). 
