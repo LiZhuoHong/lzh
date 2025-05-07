@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhuohong Li"
-description              : " PHD student of Wuhan University"
+description              : " Postdoc at Duke University"
 repository               : "https://lizhuohong.github.io/lzh/"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhuohong Li"
   avatar           : "images/2int.png"
-  bio              : "Wuhan University"
-  location         : "Wuhan, China"
+  bio              : "Duke University"
+  location         : "Durham, NC, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=cZt0JA4AAAAJ"
