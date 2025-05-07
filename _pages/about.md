@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. student in the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University. My advisors are Prof. [Hongyan Zhang](https://scholar.google.com/citations?user=fq7Uqx0AAAAJ&hl=en&oi=ao), Prof. [Wei He](https://prowdiy.github.io/weihe.github.io/), and Prof. [Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en&oi=ao). I received my B.S. degree in communication engineering in 2020 from Wuhan University. I am currently pursuing a Ph. D. degree and plan to graduate in June 2025. **I confirm that I will join the Nicolas School of Environment, Duke University for my Postdoc career.**
+I am a Postdoctoral researcher at Duke University (the Nicholas School of Environment), working with Prof. [Tong Qiu](https://scholar.google.com/citations?user=4JCY7mIAAAAJ&hl=en&oi=ao). My current working location is the Levine Science Research Center (LSRC) of Duke University, Durham, North Carolina, USA. In 2020, I received my B.S. degree in communication engineering from Wuhan University. In 2025, I received my Ph. D. degree from the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University, worked with Prof. [Hongyan Zhang](https://scholar.google.com/citations?user=fq7Uqx0AAAAJ&hl=en&oi=ao), Prof. [Wei He](https://prowdiy.github.io/weihe.github.io/), and Prof. [Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en&oi=ao).  **I confirm that I will join the Nicolas School of Environment, Duke University, for my Postdoc career.**
 
-My research interest includes weakly-supervised semantic segmentation, land cover mapping, and large-scale Earth observation applications. 
+My research interests include weakly-supervised semantic segmentation, land cover mapping, and large-scale Earth observation applications. 
 
-Email: **ashelee@whu.edu.cn**; **zhuohong.li@duke.edu**
+Email: **zhuohong.li@duke.edu**
 
 Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
 
@@ -29,11 +29,11 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 - *2025.Feb.*: &nbsp;🎉 As an outstanding student representative, my stories during PhD studies were published in the magazine of the China Ministry of Education. [**Check here**](https://ersp.lib.whu.edu.cn/s/net/cnki/kns/G.https/kcms2/article/abstract?v=d24vdHNzaZj3AJ4BwzkIi-WAlZGNfoUsbXPlOYK_gFd6ZV8EfLaUoseBF0AZHTxBpJHywq1FjCOnOiFqHScflj2IEHMDudShU0YuxHFrt4Q2jjX-laKlBmwniZrnE9HEWum_ewuBEltnuF4O12_y51PXFSt-iOOf0ZrjjGnR5M3TcjyZmzKHw0LV5_PYyMPt&uniplatform=NZKPT&language=CHS).
 - *2024.Dec.*: &nbsp;🎉 I have received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor for students in the remote-sensing field of Wuhan University.
 - *2024.Dec.*: &nbsp;🎉 I have won the 2024 National Scholarship for Graduate Student (博士研究生国家奖学金), ranking FIRST among all students in LIESMARS, Wuhan University.
-- *2024.Dec.*: &nbsp;🎉 one paper has been posted on AGU 2024 (Washington DC,USA). 
-- *2024.Nov.*: &nbsp;🎉 Two papers have accepted by ISPRS P&RS (IF=10.6). 
+- *2024.Dec.*: &nbsp;🎉 one paper has been posted on AGU 2024 (Washington DC, USA). 
+- *2024.Nov.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=10.6). 
 - *2024.Oct.*: &nbsp;🎉 I received the Postdoc offer from Duke University. 
 - *2024.Apr.*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
-- *2024.Apr.*: &nbsp;🎉 The SegLand has been accepted by CVPR 2024 L3D-LIV Workshop.
+- *2024.Apr.*: &nbsp;🎉 The SegLand has been accepted bythe  CVPR 2024 L3D-LIV Workshop.
 - *2024.Apr.*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
 - *2024.Feb.*: &nbsp;🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
 - *2023.June*: &nbsp;🎉 The SinoLC-1 has been downloaded over 100,000 times. 
@@ -103,7 +103,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 # 🎖 Honors and Awards
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">First place</div><img src='images/CVPR-1st.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[First place: 2024 CVPR OpenEarthMap Land Cover Mapping Challange](https://codalab.lisn.upsaclay.fr/competitions/17568#participate)
+[First place: 2024 CVPR OpenEarthMap Land Cover Mapping Challenge](https://codalab.lisn.upsaclay.fr/competitions/17568#participate)
   
 
 **Zhuohong Li**, Fangxiao Lu, Jiaqi Zou, Lei Hu, Hongyan Zhang
@@ -152,10 +152,10 @@ Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 # 📖 Daily life
 I like to play soccer and travel. Enjoy the sport and life :)
 
-I am the Captain of the LIESMARS soccer team and serve as a national athlete (Goalkeeper).
+I was the Captain of the LIESMARS soccer team and served as a national athlete (Goalkeeper).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/s2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/s1.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Long pass</div><img src='images/s1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Travel</div><img src='images/4.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/soccor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
