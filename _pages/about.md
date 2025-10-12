@@ -26,8 +26,8 @@ Email: **zhuohong.li@duke.edu**
 
 Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
 # 📖 Academic Service
-- *Guest Editor*: Guest Editor of *Remote Sensing*, leading and hosting the special issue of "Advances in Multispectral Image Processing for Land Use and Land Cover Mapping" with my colleagues from the University of Tokyo, the University of Hong Kong, and Wuhan University. And co-Guest Editor of the special issue of "Remote Sensing Intelligent Interpretation in the Era of Large Models and Intelligent Agents: New Challenges, Methods and Opportunities", working with Dr. Yongqiang Mao from Tsinghua University
-- *Reviewer*: Served as a reviewer of <NeurIPS>, <IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)>, <IEEE Transactions on Geoscience and Remote Sensing (TGRS)>, <IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)>, <Journal of Remote Sensing (JRS)>
+- *Guest Editor*: Guest Editor of *Remote Sensing*, leading and hosting the special issue of "Advances in Multispectral Image Processing for Land Use and Land Cover Mapping" with the co-editors I invited from the **University of Tokyo**, the **University of Hong Kong**, and **Wuhan University**. And co-Guest Editor of the special issue of "Remote Sensing Intelligent Interpretation in the Era of Large Models and Intelligent Agents", working with Dr. Yongqiang Mao from **Tsinghua University**
+- *Reviewer*: Served as a reviewer of <**NeurIPS**>, <IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)>, <IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)>, <IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**)>, <Journal of Remote Sensing (**JRS**)>
 
 # 🔥 News
 - *2025.Sep.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2)[**Paper**](https://www.sciencedirect.com/science/article/pii/S0924271625002540) and IEEE TGRS (8.6)[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124258).
