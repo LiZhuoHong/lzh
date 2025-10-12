@@ -25,16 +25,20 @@ My research interests include weakly-supervised semantic segmentation, land cove
 Email: **zhuohong.li@duke.edu**
 
 Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
+# 📖 Academic Service
+- *Guest Editor*: Guest Editor of *Remote Sensing*, leading and hosting the special issue of "Advances in Multispectral Image Processing for Land Use and Land Cover Mapping" with my colleagues from the University of Tokyo, the University of Hong Kong, and Wuhan University. And co-Guest Editor of the special issue of "Remote Sensing Intelligent Interpretation in the Era of Large Models and Intelligent Agents: New Challenges, Methods and Opportunities", working with Dr. Yongqiang Mao from Tsinghua University
+- *Reviewer*: Served as a reviewer of <NeurIPS>, <IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)>, <IEEE Transactions on Geoscience and Remote Sensing (TGRS)>, <IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)>, <Journal of Remote Sensing (JRS)>
 
 # 🔥 News
+- *2025.Sep.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2)[**Paper**](https://www.sciencedirect.com/science/article/pii/S0924271625002540) and IEEE TGRS (8.6)[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124258).
 - *2025.Feb.*: &nbsp;🎉 As an outstanding student representative, my stories during PhD studies were published in the magazine of the China Ministry of Education. [**Check here**](https://ersp.lib.whu.edu.cn/s/net/cnki/kns/G.https/kcms2/article/abstract?v=d24vdHNzaZj3AJ4BwzkIi-WAlZGNfoUsbXPlOYK_gFd6ZV8EfLaUoseBF0AZHTxBpJHywq1FjCOnOiFqHScflj2IEHMDudShU0YuxHFrt4Q2jjX-laKlBmwniZrnE9HEWum_ewuBEltnuF4O12_y51PXFSt-iOOf0ZrjjGnR5M3TcjyZmzKHw0LV5_PYyMPt&uniplatform=NZKPT&language=CHS).
 - *2024.Dec.*: &nbsp;🎉 I have received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor for students in the remote-sensing field of Wuhan University.
 - *2024.Dec.*: &nbsp;🎉 I have won the 2024 National Scholarship for Graduate Student (博士研究生国家奖学金), ranking FIRST among all students in LIESMARS, Wuhan University.
-- *2024.Dec.*: &nbsp;🎉 one paper has been posted on AGU 2024 (Washington DC, USA). 
-- *2024.Nov.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=10.6). 
+- *2024.Dec.*: &nbsp;🎉 A research has been posted on AGU 2024 (Washington, DC, USA). 
+- *2024.Nov.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2). 
 - *2024.Oct.*: &nbsp;🎉 I received the Postdoc offer from Duke University. 
 - *2024.Apr.*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
-- *2024.Apr.*: &nbsp;🎉 The SegLand has been accepted bythe  CVPR 2024 L3D-LIV Workshop.
+- *2024.Apr.*: &nbsp;🎉 The SegLand has been accepted by the CVPR 2024 L3D-LIV Workshop.
 - *2024.Apr.*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
 - *2024.Feb.*: &nbsp;🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
 - *2023.June*: &nbsp;🎉 The SinoLC-1 has been downloaded over 100,000 times. 
