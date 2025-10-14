@@ -156,14 +156,11 @@ Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 # 📖 Sport
 I was the Captain of the LIESMARS soccer team and served as a national athlete (Goalkeeper).
 
-<div class="paper-box-container" style="display: flex; flex-direction: row; gap: 10px; align-items: stretch; margin-top: 10px;">
-  <!-- Card 1 -->
-  <div class="paper-box" style="flex: 1; max-width: 260px; position: relative;">
-    <div class="paper-box-image" style="position: relative; height: 200px;">
-      <div class="badge" style="position: absolute; top: 5px; left: 5px; background:#4CAF50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Teamwork</div>
-      <img src='images/s2.jpg' alt="Teamwork" style="width:100%; height:100%; object-fit: cover; border-radius:6px;">
-    </div>
+<div class="paper-box" style="flex: 1; max-width: 200px;">
+  <div class="paper-box-image" style="position: relative; height: 150px;">
+    <img src='images/s2.jpg' alt="Teamwork" style="width:100%; height:100%; object-fit: cover; border-radius:6px;">
   </div>
+</div>
 
   <!-- Card 2 -->
   <div class="paper-box" style="flex: 1; max-width: 200px; position: relative;">
