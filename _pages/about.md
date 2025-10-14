@@ -153,18 +153,52 @@ Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 - *2022*, Geography of China Information Science Theory and Method Annual Conference, Hangzhou, China.
 - *2021*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Brussels, Belgium.
 - *2020*, China High-Resolution Earth Observation Conference, Changsha, China.
-  
 # 📖 Sport
 I was the Captain of the LIESMARS soccer team and served as a national athlete (Goalkeeper).
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/s2.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Long pass</div><img src='images/s1.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/soccor.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-# 💬 Page visitor
+<div class="sport-gallery">
+  <div class="sport-item">
+    <div class="badge">Teamwork</div>
+    <img src="images/s2.jpg" alt="Teamwork">
+  </div>
+  <div class="sport-item">
+    <div class="badge">Long pass</div>
+    <img src="images/s1.jpg" alt="Long pass">
+  </div>
+  <div class="sport-item">
+    <div class="badge">Goalkeeper</div>
+    <img src="images/soccor.jpg" alt="Goalkeeper">
+  </div>
 </div>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
-<a href="https://info.flagcounter.com/Gupv"><img src="https://s01.flagcounter.com/map/Gupv/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
-<a href="https://info.flagcounter.com/GvHh"><img src="https://s01.flagcounter.com/count2/GvHh/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+<style>
+.sport-gallery {
+  display: flex;               /* 水平排列 */
+  flex-wrap: wrap;             /* 屏幕窄时自动换行 */
+  gap: 20px;                   /* 图片间距 */
+  justify-content: center;     /* 居中对齐 */
+}
+
+.sport-item {
+  position: relative;
+  text-align: center;
+}
+
+.sport-item img {
+  width: 250px;                /* 统一图片大小，可调整 */
+  height: auto;
+  border-radius: 8px;          /* 可选，圆角 */
+}
+
+.sport-item .badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: #003399;  /* 蓝色徽章 */
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 0.9em;
+}
+</style>  
+
