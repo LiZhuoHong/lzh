@@ -153,52 +153,52 @@ Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 - *2022*, Geography of China Information Science Theory and Method Annual Conference, Hangzhou, China.
 - *2021*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Brussels, Belgium.
 - *2020*, China High-Resolution Earth Observation Conference, Changsha, China.
+<!-- ==================== Sport Section ==================== -->
 # 📖 Sport
 I was the Captain of the LIESMARS soccer team and served as a national athlete (Goalkeeper).
 
-<div class="sport-gallery">
-  <div class="sport-item">
-    <div class="badge">Teamwork</div>
-    <img src="images/s2.jpg" alt="Teamwork">
+<div class="sport-container" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 15px;">
+  <!-- Card 1 -->
+  <div class="paper-box" style="flex: 1 1 200px; max-width: 200px; text-align: center; border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+    <div class="paper-box-image" style="position: relative;">
+      <div class="badge" style="position: absolute; top: 5px; left: 5px; background: #4CAF50; color: white; padding: 2px 6px; border-radius: 5px; font-size: 12px;">Teamwork</div>
+      <img src='images/s2.jpg' alt="Teamwork" style="width:100%; border-radius: 8px;">
+    </div>
   </div>
-  <div class="sport-item">
-    <div class="badge">Long pass</div>
-    <img src="images/s1.jpg" alt="Long pass">
+
+  <!-- Card 2 -->
+  <div class="paper-box" style="flex: 1 1 200px; max-width: 200px; text-align: center; border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+    <div class="paper-box-image" style="position: relative;">
+      <div class="badge" style="position: absolute; top: 5px; left: 5px; background: #2196F3; color: white; padding: 2px 6px; border-radius: 5px; font-size: 12px;">Long pass</div>
+      <img src='images/s1.jpg' alt="Long pass" style="width:100%; border-radius: 8px;">
+    </div>
   </div>
-  <div class="sport-item">
-    <div class="badge">Goalkeeper</div>
-    <img src="images/soccor.jpg" alt="Goalkeeper">
+
+  <!-- Card 3 -->
+  <div class="paper-box" style="flex: 1 1 200px; max-width: 200px; text-align: center; border: 1px solid #ddd; border-radius: 12px; padding: 10px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1);">
+    <div class="paper-box-image" style="position: relative;">
+      <div class="badge" style="position: absolute; top: 5px; left: 5px; background: #FF5722; color: white; padding: 2px 6px; border-radius: 5px; font-size: 12px;">Goalkeeper</div>
+      <img src='images/soccor.jpg' alt="Goalkeeper" style="width:100%; border-radius: 8px;">
+    </div>
   </div>
 </div>
 
-<style>
-.sport-gallery {
-  display: flex;               /* 水平排列 */
-  flex-wrap: wrap;             /* 屏幕窄时自动换行 */
-  gap: 20px;                   /* 图片间距 */
-  justify-content: center;     /* 居中对齐 */
-}
+<!-- ==================== Page Visitor Section ==================== -->
+# 💬 Page visitor
 
-.sport-item {
-  position: relative;
-  text-align: center;
-}
+<div class="visitor-container" style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; align-items: center; margin-top: 15px;">
+  <!-- Visitor badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge" style="height: 40px; border-radius: 8px;">
 
-.sport-item img {
-  width: 250px;                /* 统一图片大小，可调整 */
-  height: auto;
-  border-radius: 8px;          /* 可选，圆角 */
-}
+  <!-- World map flag counter -->
+  <a href="https://info.flagcounter.com/Gupv">
+    <img src="https://s01.flagcounter.com/map/Gupv/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" 
+         alt="Flag Counter" border="0" style="height: 40px; border-radius: 8px;">
+  </a>
 
-.sport-item .badge {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  background-color: #003399;  /* 蓝色徽章 */
-  color: white;
-  padding: 5px 10px;
-  border-radius: 5px;
-  font-size: 0.9em;
-}
-</style>  
-
+  <!-- Total flag counter -->
+  <a href="https://info.flagcounter.com/GvHh">
+    <img src="https://s01.flagcounter.com/count2/GvHh/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
+         alt="Flag Counter" border="0" style="height: 40px; border-radius: 8px;">
+  </a>
+</div>
