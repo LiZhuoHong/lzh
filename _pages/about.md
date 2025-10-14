@@ -154,9 +154,7 @@ Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 - *2021*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Brussels, Belgium.
 - *2020*, China High-Resolution Earth Observation Conference, Changsha, China.
   
-# 📖 Daily life
-I like to play soccer and travel. Enjoy the sport and life :)
-
+# 📖 Sport
 I was the Captain of the LIESMARS soccer team and served as a national athlete (Goalkeeper).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Teamwork</div><img src='images/s2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -164,6 +162,7 @@ I was the Captain of the LIESMARS soccer team and served as a national athlete (
 <div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/soccor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
+
+# 💬 Page visitor
 <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
 <a href="https://info.flagcounter.com/Gupv"><img src="https://s01.flagcounter.com/map/Gupv/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
