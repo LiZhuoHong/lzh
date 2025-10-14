@@ -164,3 +164,5 @@ I was the Captain of the LIESMARS soccer team and served as a national athlete (
 <div class='paper-box-text' markdown="1">
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Goalkeeper</div><img src='images/soccor.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+<img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
