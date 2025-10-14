@@ -26,8 +26,8 @@ Email: **zhuohong.li@duke.edu**
 
 Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
 # 📖 Academic Service
-- *Guest Editor*: Guest Editor of *Remote Sensing*, leading and hosting the special issue of "Advances in Multispectral Image Processing for Land Use and Land Cover Mapping" with the co-editors I invited from the **University of Tokyo**, the **University of Hong Kong**, and **Wuhan University**. And co-Guest Editor of the special issue of "Remote Sensing Intelligent Interpretation in the Era of Large Models and Intelligent Agents", working with Dr. Yongqiang Mao from **Tsinghua University**
-- *Reviewer*: Served as a reviewer of <**NeurIPS**>, <IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)>, <IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)>, <IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**)>, <Journal of Remote Sensing (**JRS**)>
+- **Guest Editor**: Guest Editor of *Remote Sensing*, leading and hosting the special issue of "Advances in Multispectral Image Processing for Land Use and Land Cover Mapping" with the co-editors I invited from the **University of Tokyo**, the **University of Hong Kong**, and **Wuhan University**. And co-Guest Editor of the special issue of "Remote Sensing Intelligent Interpretation in the Era of Large Models and Intelligent Agents", working with Dr. Yongqiang Mao from **Tsinghua University**
+- **Reviewer**: Served as a reviewer of <**NeurIPS**>, <**IEEE TPAMI**>, <**IEEE TGRS**>, <**IEEE JSTARS**>, <Journal of Remote Sensing (**JRS**)>
 
 # 🔥 News
 - *2025.Sep.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2)[**Paper**](https://www.sciencedirect.com/science/article/pii/S0924271625002540) and IEEE TGRS (8.6)[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124258).
@@ -38,7 +38,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 - *2024.Nov.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2). 
 - *2024.Oct.*: &nbsp;🎉 I received the Postdoc offer from Duke University. 
 - *2024.Apr.*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
-- *2024.Apr.*: &nbsp;🎉 The SegLand has been accepted by the CVPR 2024 L3D-LIV Workshop.
+- *2024.Apr.*: &nbsp;🎉 The CVPR 2024 L3D-LIV Workshop has accepted the SegLand.
 - *2024.Apr.*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
 - *2024.Feb.*: &nbsp;🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
 - *2023.June*: &nbsp;🎉 The SinoLC-1 has been downloaded over 100,000 times. 
@@ -53,7 +53,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 **Zhuohong Li**, Wei He, Jiepan Li, Fangxiao Lu, Hongyan Zhang
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/Motivation_v3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/Motivation_v3.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data](https://ieeexplore.ieee.org/document/10641437)
   
@@ -95,15 +95,16 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 **Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Naoto Yokoya
 </div>
 </div>
-- [Overcoming the uncertainty challenges in detecting building changes from remote sensing images](https://www.sciencedirect.com/science/article/pii/S092427162400426X), Jiepan Li, Wei He, Zhuohong Li, Yujun Guo, Hongyan Zhang, **ISPRS P&RS 2024**
-- [Harmony in diversity: Content cleansing change detection framework for very-high-resolution remote-sensing images](https://www.sciencedirect.com/science/article/pii/S092427162400340X), Mofan Cheng, Wei He, Zhuohong Li, Guangyi Yang, Hongyan Zhang, **ISPRS P&RS 2024**
-- [Cross-City Semantic Segmentation (C2Seg) in Multimodal Remote Sensing: Outcome of the 2023 IEEE WHISPERS C2Seg Challenge](https://ieeexplore.ieee.org/abstract/document/10517985), Yuheng Liu, Ye Wang, Yifan Zhang, Shaohui Mei, Jiaqi Zou, Zhuohong Li, Fangxiao Lu, Wei He, Hongyan Zhang, Huilin Zhao, Chuan Chen, Cong Xia, Hao Li, Gemine Vivone, Ronny Hänsch, Gulsen Taskin, Jing Yao, A Kai Qin, Bing Zhang, Jocelyn Chanussot, Danfeng Hong, **JSTARS 2024**
-- [Simultaneous Update of High-Resolution Land-Cover Mapping Attempt: Wuhan and the Surrounding Satellite Cities Cartography Using L2HNet](https://arxiv.org/pdf/2303.05305.pdf), Yan Huang, Yuqing Wang, Zhanbo Li, Zhuohong Li, Guangyi Yang, **JSTARS 2023**
-- [Multimodal unsupervised domain adaptation for remote sensing image segmentation]([https://ieeexplore.ieee.org/abstract/document/9553120](https://ieeexplore.ieee.org/abstract/document/10431324)), Jiaqi Zou, Zhuohong Li, Fangxiao Lu, Wei He, Hongyan Zhang, **2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS) 2023**
-- [Multi-stage pseudo-label iteration framework for semi-supervised land-cover mapping](https://ieeexplore.ieee.org/abstract/document/9884345), Zhuohong Li, Jiaqi Zou, Fangxiao Lu, Hongyan Zhang, **IGRASS 2021**
-- [Change Cross-Detection Based on Label Improvements and Multi-Model Fusion for Multi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9553120), Zhuohong Li, Fangxiao Lu, Hongyan Zhang, Guangyi Yang, Liangpei Zhang, **IGRASS 2020**
-- [National-scale 1-m resolution land-cover mapping for the entire China based on a low-cost solution and open-access data](https://arxiv.org/pdf/2303.05305.pdf), Zhuohong Li, Wei He, Hongyan Zhang, **Arxiv**
-
+- [Cross-scenario damaged building extraction network: Methodology, application, and efficiency using single-temporal HRRS imagery](https://www.sciencedirect.com/science/article/pii/S0924271625002540), **ISPRS P&RS 2025**
+- [C2FNet: Cross-Probabilistic Weak Supervision Learning for High-Resolution Land Cover Enhancement](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124258), **IEEE TGRS 2025**
+- [Determining spatially variable peat depths of an alpine peatland in the Qinghai‐Tibet Plateau](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024JG008713), **JGR Biogeosciences 2025**
+- [Overcoming the uncertainty challenges in detecting building changes from remote sensing images](https://www.sciencedirect.com/science/article/pii/S092427162400426X), **ISPRS P&RS 2024**
+- [Harmony in diversity: Content cleansing change detection framework for very-high-resolution remote-sensing images](https://www.sciencedirect.com/science/article/pii/S092427162400340X), **ISPRS P&RS 2024**
+- [Cross-City Semantic Segmentation (C2Seg) in Multimodal Remote Sensing: Outcome of the 2023 IEEE WHISPERS C2Seg Challenge](https://ieeexplore.ieee.org/abstract/document/10517985), **IEEE JSTARS 2024**
+- [Simultaneous Update of High-Resolution Land-Cover Mapping Attempt: Wuhan and the Surrounding Satellite Cities Cartography Using L2HNet](https://arxiv.org/pdf/2303.05305.pdf), **IEEE JSTARS 2023**
+- [Multimodal unsupervised domain adaptation for remote sensing image segmentation]([https://ieeexplore.ieee.org/abstract/document/9553120](https://ieeexplore.ieee.org/abstract/document/10431324)), **2023 13th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS) 2023**
+- [Multi-stage pseudo-label iteration framework for semi-supervised land-cover mapping](https://ieeexplore.ieee.org/abstract/document/9884345), **IGRASS 2021**
+- [Change Cross-Detection Based on Label Improvements and Multi-Model Fusion for Multi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9553120), **IGRASS 2020**
 
 # 🎖 Honors and Awards
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">First place</div><img src='images/CVPR-1st.png' alt="sym" width="100%"></div></div>
@@ -150,16 +151,14 @@ Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 - *2024*, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024, Seattle, USA.
 - *2023*, IEEE 11th International Conference on Agro-Geoinformatics, Wuhan, China.
 - *2022*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Kuala Lumpur, Malaysia.
-- *2022*, Geography of China Information Science Theory and Method Annual Conference, Hangzhou, China.
 - *2021*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Brussels, Belgium.
-- *2020*, China High-Resolution Earth Observation Conference, Changsha, China.
 <!-- ==================== Sport Section ==================== -->
 # 📖 Sport
 I was the Captain of the LIESMARS soccer team and served as a national athlete (Goalkeeper).
 
 <div class="paper-box-container" style="display: flex; flex-direction: row; gap: 10px; align-items: stretch; margin-top: 10px;">
   <!-- Card 1 -->
-  <div class="paper-box" style="flex: 1; max-width: 200px; position: relative;">
+  <div class="paper-box" style="flex: 1; max-width: 260px; position: relative;">
     <div class="paper-box-image" style="position: relative; height: 200px;">
       <div class="badge" style="position: absolute; top: 5px; left: 5px; background:#4CAF50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Teamwork</div>
       <img src='images/s2.jpg' alt="Teamwork" style="width:100%; height:100%; object-fit: cover; border-radius:6px;">
