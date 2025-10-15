@@ -32,8 +32,8 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 # 🔥 News
 - *2025.Sep.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2)[**Paper**](https://www.sciencedirect.com/science/article/pii/S0924271625002540) and IEEE TGRS (8.6)[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124258).
 - *2025.Feb.*: &nbsp;🎉 My stories during PhD studies were published in a magazine of the China Ministry of Education. [**Check here**](https://ersp.lib.whu.edu.cn/s/net/cnki/kns/G.https/kcms2/article/abstract?v=d24vdHNzaZj3AJ4BwzkIi-WAlZGNfoUsbXPlOYK_gFd6ZV8EfLaUoseBF0AZHTxBpJHywq1FjCOnOiFqHScflj2IEHMDudShU0YuxHFrt4Q2jjX-laKlBmwniZrnE9HEWum_ewuBEltnuF4O12_y51PXFSt-iOOf0ZrjjGnR5M3TcjyZmzKHw0LV5_PYyMPt&uniplatform=NZKPT&language=CHS).
-- *2024.Dec.*: &nbsp;🎉 I received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor for students in the remote-sensing field at Wuhan University.
-- *2024.Dec.*: &nbsp;🎉 I won the 2024 National Scholarship for Graduate Student (博士研究生国家奖学金), ranking FIRST among students in LIESMARS.
+- *2024.Dec.*: &nbsp;🎉 I received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor at Wuhan University.
+- *2024.Dec.*: &nbsp;🎉 I won the 2024 National Scholarship for Graduate Student (博士研究生国家奖学金), ranking FIRST in LIESMARS.
 - *2024.Dec.*: &nbsp;🎉 A research has been posted on AGU 2024 (Washington, DC, USA). 
 - *2024.Nov.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2). 
 - *2024.Oct.*: &nbsp;🎉 I received the Postdoc offer from Duke University. 
