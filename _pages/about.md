@@ -161,25 +161,25 @@ I joined the soccer team at Duke University.
 
   <!-- Card 1 -->
   <div class="paper-box" style="flex: 1; position: relative;">
-    <div class="paper-box-image" style="position: relative; width: 100%; aspect-ratio: 16/9;">
+    <div class="paper-box-image" style="position: relative; width: 200%; aspect-ratio: 16/9;">
       <div class="badge" style="position: absolute; top: 5px; left: 5px; background:#4CAF50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Teamwork</div>
-      <img src='images/s2.jpg' alt="Teamwork" style="width:100%; height:100%; object-fit: cover; border-radius:6px;">
+      <img src='images/s2.jpg' alt="Teamwork" style="width:200%; height:200%; object-fit: cover; border-radius:6px;">
     </div>
   </div>
 
   <!-- Card 2 -->
   <div class="paper-box" style="flex: 1; position: relative;">
-    <div class="paper-box-image" style="position: relative; width: 100%; aspect-ratio: 16/9;">
+    <div class="paper-box-image" style="position: relative; width: 200%; aspect-ratio: 16/9;">
       <div class="badge" style="position: absolute; top: 5px; left: 5px; background:#2196F3; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Long pass</div>
-      <img src='images/s1.jpg' alt="Long pass" style="width:100%; height:100%; object-fit: cover; border-radius:6px;">
+      <img src='images/s1.jpg' alt="Long pass" style="width:200%; height:200%; object-fit: cover; border-radius:6px;">
     </div>
   </div>
 
   <!-- Card 3 -->
   <div class="paper-box" style="flex: 1; position: relative;">
-    <div class="paper-box-image" style="position: relative; width: 100%; aspect-ratio: 16/9;">
+    <div class="paper-box-image" style="position: relative; width: 200%; aspect-ratio: 16/9;">
       <div class="badge" style="position: absolute; top: 5px; left: 5px; background:#FF5722; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Goalkeeper</div>
-      <img src='images/soccor.jpg' alt="Goalkeeper" style="width:100%; height:100%; object-fit: cover; border-radius:6px;">
+      <img src='images/soccor.jpg' alt="Goalkeeper" style="width:200%; height:200%; object-fit: cover; border-radius:6px;">
     </div>
   </div>
 
