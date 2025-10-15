@@ -31,9 +31,9 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 
 # 🔥 News
 - *2025.Sep.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2)[**Paper**](https://www.sciencedirect.com/science/article/pii/S0924271625002540) and IEEE TGRS (8.6)[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124258).
-- *2025.Feb.*: &nbsp;🎉 As an outstanding student representative, my stories during PhD studies were published in the magazine of the China Ministry of Education. [**Check here**](https://ersp.lib.whu.edu.cn/s/net/cnki/kns/G.https/kcms2/article/abstract?v=d24vdHNzaZj3AJ4BwzkIi-WAlZGNfoUsbXPlOYK_gFd6ZV8EfLaUoseBF0AZHTxBpJHywq1FjCOnOiFqHScflj2IEHMDudShU0YuxHFrt4Q2jjX-laKlBmwniZrnE9HEWum_ewuBEltnuF4O12_y51PXFSt-iOOf0ZrjjGnR5M3TcjyZmzKHw0LV5_PYyMPt&uniplatform=NZKPT&language=CHS).
-- *2024.Dec.*: &nbsp;🎉 I have received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor for students in the remote-sensing field of Wuhan University.
-- *2024.Dec.*: &nbsp;🎉 I have won the 2024 National Scholarship for Graduate Student (博士研究生国家奖学金), ranking FIRST among all students in LIESMARS, Wuhan University.
+- *2025.Feb.*: &nbsp;🎉 My stories during PhD studies were published in a magazine of the China Ministry of Education. [**Check here**](https://ersp.lib.whu.edu.cn/s/net/cnki/kns/G.https/kcms2/article/abstract?v=d24vdHNzaZj3AJ4BwzkIi-WAlZGNfoUsbXPlOYK_gFd6ZV8EfLaUoseBF0AZHTxBpJHywq1FjCOnOiFqHScflj2IEHMDudShU0YuxHFrt4Q2jjX-laKlBmwniZrnE9HEWum_ewuBEltnuF4O12_y51PXFSt-iOOf0ZrjjGnR5M3TcjyZmzKHw0LV5_PYyMPt&uniplatform=NZKPT&language=CHS).
+- *2024.Dec.*: &nbsp;🎉 I received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor for students in the remote-sensing field at Wuhan University.
+- *2024.Dec.*: &nbsp;🎉 I won the 2024 National Scholarship for Graduate Student (博士研究生国家奖学金), ranking FIRST among students in LIESMARS.
 - *2024.Dec.*: &nbsp;🎉 A research has been posted on AGU 2024 (Washington, DC, USA). 
 - *2024.Nov.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2). 
 - *2024.Oct.*: &nbsp;🎉 I received the Postdoc offer from Duke University. 
@@ -154,53 +154,66 @@ Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 - *2021*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Brussels, Belgium.
 
 # 📖 Sport
-I was the Captain of the LIESMARS soccer team and served as a national athlete (Goalkeeper).
+I was the Captain of the LIESMARS soccer team and served as a national athlete (Goalkeeper).  
 I joined the soccer team at Duke University.
 
-<div class="paper-box-container" style="display: flex; flex-direction: row; gap: 10px; align-items: stretch; margin-top: 10px;">
+<!-- 三张图水平紧密排列 -->
+<div class="paper-box-container" style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start; gap: 5px; margin-top: 10px;">
 
   <!-- Card 1 -->
-  <div class="paper-box" style="flex: 1; position: relative;">
-    <div class="paper-box-image" style="position: relative; width: 200%; aspect-ratio: 16/9;">
+  <div class="paper-box" style="position: relative; width: 33%; min-width: 200px;">
+    <div class="paper-box-image" style="position: relative; width: 100%; aspect-ratio: 16/9;">
       <div class="badge" style="position: absolute; top: 5px; left: 5px; background:#4CAF50; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Teamwork</div>
-      <img src='images/s2.jpg' alt="Teamwork" style="width:200%; height:200%; object-fit: cover; border-radius:6px;">
+      <img src='images/s2.jpg' alt="Teamwork" style="width:100%; height:100%; object-fit: cover; border-radius:6px;">
     </div>
   </div>
 
   <!-- Card 2 -->
-  <div class="paper-box" style="flex: 1; position: relative;">
-    <div class="paper-box-image" style="position: relative; width: 200%; aspect-ratio: 16/9;">
+  <div class="paper-box" style="position: relative; width: 33%; min-width: 200px;">
+    <div class="paper-box-image" style="position: relative; width: 100%; aspect-ratio: 16/9;">
       <div class="badge" style="position: absolute; top: 5px; left: 5px; background:#2196F3; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Long pass</div>
-      <img src='images/s1.jpg' alt="Long pass" style="width:200%; height:200%; object-fit: cover; border-radius:6px;">
+      <img src='images/s1.jpg' alt="Long pass" style="width:100%; height:100%; object-fit: cover; border-radius:6px;">
     </div>
   </div>
 
   <!-- Card 3 -->
-  <div class="paper-box" style="flex: 1; position: relative;">
-    <div class="paper-box-image" style="position: relative; width: 200%; aspect-ratio: 16/9;">
+  <div class="paper-box" style="position: relative; width: 33%; min-width: 200px;">
+    <div class="paper-box-image" style="position: relative; width: 100%; aspect-ratio: 16/9;">
       <div class="badge" style="position: absolute; top: 5px; left: 5px; background:#FF5722; color:white; padding:2px 6px; border-radius:4px; font-size:12px;">Goalkeeper</div>
-      <img src='images/soccor.jpg' alt="Goalkeeper" style="width:200%; height:200%; object-fit: cover; border-radius:6px;">
+      <img src='images/soccor.jpg' alt="Goalkeeper" style="width:100%; height:100%; object-fit: cover; border-radius:6px;">
     </div>
   </div>
 
 </div>
 
 <!-- ==================== Page Visitor Section ==================== -->
-# 💬 Page visitor
+# 💬 Page Visitor
 
 <div class="visitor-section" style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px; margin-top: 15px;">
-  <!-- Visitor badge 在上方 -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge">
 
-  <!-- 下方水平排列 World map 和 Total flag counter -->
-  <div style="display: flex; gap: 10px;">
+  <!-- 顶部访客徽章 -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge" style="margin-bottom: 5px;">
+
+  <!-- 三个访客统计图水平紧密排列 -->
+  <div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start; gap: 5px;">
+
     <!-- World map flag counter -->
     <a href="https://info.flagcounter.com/Gupv">
-      <img src="https://s01.flagcounter.com/map/Gupv/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0">
+      <img src="https://s01.flagcounter.com/map/Gupv/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" 
+           alt="Flag Counter" border="0" style="border-radius:6px;">
     </a>
-    <!-- Total flag counter -->
+
+    <!-- Total flag counter 1 -->
     <a href="https://info.flagcounter.com/GvHh">
-      <img src="https://s01.flagcounter.com/count2/GvHh/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+      <img src="https://s01.flagcounter.com/count2/GvHh/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
+           alt="Flag Counter" border="0" style="border-radius:6px;">
     </a>
+
+    <!-- Total flag counter 2 -->
+    <a href="https://info.flagcounter.com/NkeR">
+      <img src="https://s05.flagcounter.com/count2_US/NkeR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
+           alt="Flag Counter" border="0" style="border-radius:6px;">
+    </a>
+
   </div>
 </div>
