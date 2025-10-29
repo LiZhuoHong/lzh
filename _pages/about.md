@@ -197,7 +197,7 @@ I joined the soccer team at Duke University.
     
     <!-- Map My Visitors -->
     <div style="display:inline-block;">
-        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=smikl9b7K_TA2OTYCETb4Sio2_EgFyVb88-4mhp1UAA&co=89bcf1&ct=ffffff'></script>
+        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=350&t=tt&d=smikl9b7K_TA2OTYCETb4Sio2_EgFyVb88-4mhp1UAA&co=89bcf1&ct=ffffff'></script>
     </div>
 
     <!-- Flag Counter -->
