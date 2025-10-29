@@ -193,7 +193,7 @@ I joined the soccer team at Duke University.
 
   <!-- 顶部访客徽章 -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge" style="margin-bottom: 5px;">
-
+  <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=eEqYcnXd5oB1J5G8qivNvILsXK_ulQU4UHiH3Si2c0M"></script>
   <!-- 三个访客统计图水平紧密排列 -->
   <div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start; gap: 5px;">
 
