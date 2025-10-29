@@ -193,10 +193,20 @@ I joined the soccer team at Duke University.
 
   <!-- 顶部访客徽章 -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge" style="margin-bottom: 5px;">
-  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=150&t=tt&d=smikl9b7K_TA2OTYCETb4Sio2_EgFyVb88-4mhp1UAA&co=89bcf1&ct=ffffff'></script>
-  <!-- 三个访客统计图水平紧密排列 -->
-  <div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start; gap: 5px;">
+<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start; gap: 5px;">
+    
+    <!-- Map My Visitors -->
+    <div style="display:inline-block;">
+        <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=tt&d=smikl9b7K_TA2OTYCETb4Sio2_EgFyVb88-4mhp1UAA&co=89bcf1&ct=ffffff'></script>
+    </div>
 
+    <!-- Flag Counter -->
+    <a href="https://info.flagcounter.com/NkeR">
+        <img src="https://s05.flagcounter.com/count2_US/NkeR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
+             alt="Flag Counter" border="0" style="border-radius:6px;">
+    </a>
+
+</div>
     <!-- World map flag counter -->
     <a href="https://info.flagcounter.com/Gupv">
     <!--     <img src="https://s01.flagcounter.com/map/Gupv/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" 
@@ -207,13 +217,9 @@ I joined the soccer team at Duke University.
     <a href="https://info.flagcounter.com/GvHh">
    <!--    <img src="https://s01.flagcounter.com/count2/GvHh/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
            alt="Flag Counter" border="0" style="border-radius:6px;">-->
-    </a>
 
-    <!-- Total flag counter 2 -->
-    <a href="https://info.flagcounter.com/NkeR">
-   <img src="https://s05.flagcounter.com/count2_US/NkeR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
-           alt="Flag Counter" border="0" style="border-radius:6px;">
-    </a>
+
+
 
   </div>
 </div>
