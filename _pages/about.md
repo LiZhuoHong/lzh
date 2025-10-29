@@ -211,8 +211,8 @@ I joined the soccer team at Duke University.
 
     <!-- Total flag counter 2 -->
     <a href="https://info.flagcounter.com/NkeR">
-      <img src="https://s05.flagcounter.com/count2_US/NkeR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
-           alt="Flag Counter" border="0" style="border-radius:6px;">
+   <!--   <img src="https://s05.flagcounter.com/count2_US/NkeR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
+           alt="Flag Counter" border="0" style="border-radius:6px;">-->
     </a>
 
   </div>
