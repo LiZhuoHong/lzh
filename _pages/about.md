@@ -30,6 +30,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 - **Reviewer**: Served as a reviewer of <**CVPR**>，<**NeurIPS**>, <**IEEE TPAMI**>, <Earth System Science Data (**ESSD**)>, <**ISPRS P&RS**>, <**IEEE TGRS**>, <**IEEE JSTARS**>, <Journal of Remote Sensing (**JRS**)>
 
 # 🔥 News
+- *2025.Nov.*: &nbsp;🎉 Our paper"Satellite mapping of every building’s function in urban China reveals deep built environment disparities" has been accepted by Nature Communications.
 - *2025.Sep.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2)[**Paper**](https://www.sciencedirect.com/science/article/pii/S0924271625002540) and IEEE TGRS (8.6)[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124258).
 - *2025.Feb.*: &nbsp;🎉 My stories during PhD studies were published in a magazine of the China Ministry of Education. [**Check here**](https://ersp.lib.whu.edu.cn/s/net/cnki/kns/G.https/kcms2/article/abstract?v=d24vdHNzaZj3AJ4BwzkIi-WAlZGNfoUsbXPlOYK_gFd6ZV8EfLaUoseBF0AZHTxBpJHywq1FjCOnOiFqHScflj2IEHMDudShU0YuxHFrt4Q2jjX-laKlBmwniZrnE9HEWum_ewuBEltnuF4O12_y51PXFSt-iOOf0ZrjjGnR5M3TcjyZmzKHw0LV5_PYyMPt&uniplatform=NZKPT&language=CHS).
 - *2024.Dec.*: &nbsp;🎉 I received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor at Wuhan University.
