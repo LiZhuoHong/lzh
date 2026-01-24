@@ -27,7 +27,7 @@ Email: **zhuohong.li@duke.edu**
 Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
 # 📖 Academic Service
 - **Guest Editor**: Guest Editor of *Remote Sensing*, leading the special issue "Advances in Multispectral Image Processing for Land Use and Land Cover Mapping" with co-editors I invited from the University of Tokyo, the University of Hong Kong, and Wuhan University; And co-Guest Editor of the special issue "Remote Sensing Intelligent Interpretation in the Era of Large Models and Intelligent Agents", working with Dr. Yongqiang Mao from Tsinghua University
-- **Reviewer**: Served as a reviewer of <**CVPR**>，<**NeurIPS**>, <**IEEE TPAMI**>, <Earth System Science Data (**ESSD**)>, <**ISPRS P&RS**>, <**IEEE TGRS**>, <**IEEE JSTARS**>, <Journal of Remote Sensing (**JRS**)>
+- **Reviewer**: Served as a reviewer of <**CVPR**>，<**NeurIPS**>, <**IEEE TPAMI**>, <**ECCV**>, <Earth System Science Data (**ESSD**)>, <**ISPRS P&RS**>, <**IEEE TGRS**>, <**IEEE JSTARS**>, <Journal of Remote Sensing (**JRS**)>
 
 # 🔥 News
 - *2025.Nov.*: &nbsp;🎉 Our paper"Satellite mapping of every building’s function in urban China reveals deep built environment disparities" has been accepted by Nature Communications.
