@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher at Duke University (the Nicholas School of Environment), working with Prof. [Tong Qiu](https://scholar.google.com/citations?user=4JCY7mIAAAAJ&hl=en&oi=ao). My current working location is in the Levine Science Research Center (LSRC), Durham, North Carolina, USA. 
+I am a postdoctoral researcher at Duke University (the Nicholas School of Environment), working with Prof. [Tong Qiu](https://scholar.google.com/citations?user=4JCY7mIAAAAJ&hl=en&oi=ao). My current work location is the Levine Science Research Center (LSRC) in Durham, North Carolina, USA. 
 I received my B.S. degree of communication engineering from Wuhan University (2020) and received my Ph. D. degree (2025) from the State Key Laboratory of Information Engineering in Surveying, Mapping, and Remote Sensing (LIESMARS), Wuhan University, worked with Prof. [Hongyan Zhang](https://scholar.google.com/citations?user=fq7Uqx0AAAAJ&hl=en&oi=ao), Prof. [Wei He](https://prowdiy.github.io/weihe.github.io/), and Prof. [Liangpei Zhang](https://scholar.google.com/citations?user=vzj2hcYAAAAJ&hl=en&oi=ao).
 
 My research interests include weakly-supervised semantic segmentation, land cover mapping, and large-scale Earth observation applications. 
@@ -27,10 +27,10 @@ Email: **zhuohong.li@duke.edu**
 Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
 # 📖 Academic Service
 - **Guest Editor**: Guest Editor of *Remote Sensing*, leading the special issue "Advances in Multispectral Image Processing for Land Use and Land Cover Mapping" with co-editors I invited from the University of Tokyo, the University of Hong Kong, and Wuhan University; And co-Guest Editor of the special issue "Remote Sensing Intelligent Interpretation in the Era of Large Models and Intelligent Agents", working with Dr. Yongqiang Mao from Tsinghua University
-- **Reviewer**: Served as a reviewer of <**CVPR**>，<**NeurIPS**>, <**IEEE TPAMI**>, <**ECCV**>, <Earth System Science Data (**ESSD**)>, <**ISPRS P&RS**>, <**IEEE TGRS**>, <**IEEE JSTARS**>, <Journal of Remote Sensing (**JRS**)>
+- **Reviewer**: Served as a reviewer of <**CVPR**>，<**NeurIPS**>, <**IEEE TPAMI**>, <**ECCV**>, <Earth System Science Data (**ESSD**)>, <**ISPRS P&RS**>, <**IEEE TGRS**>, <**JAG**>, <**IEEE JSTARS**>, <Journal of Remote Sensing (**JRS**)>, <**Remote Sensing**>, and <**Sensor**>. 
 
 # 🔥 News
-- *2025.Nov.*: &nbsp;🎉 Our paper"Satellite mapping of every building’s function in urban China reveals deep built environment disparities" has been accepted by Nature Communications.
+- *2025.Nov.*: &nbsp;🎉 Our paper"Satellite mapping of every building’s function in urban China reveals deep built environment disparities" has been accepted by **Nature Communications**.
 - *2025.Sep.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2)[**Paper**](https://www.sciencedirect.com/science/article/pii/S0924271625002540) and IEEE TGRS (8.6)[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124258).
 - *2025.Feb.*: &nbsp;🎉 My stories during PhD studies were published in a magazine of the China Ministry of Education. [**Check here**](https://ersp.lib.whu.edu.cn/s/net/cnki/kns/G.https/kcms2/article/abstract?v=d24vdHNzaZj3AJ4BwzkIi-WAlZGNfoUsbXPlOYK_gFd6ZV8EfLaUoseBF0AZHTxBpJHywq1FjCOnOiFqHScflj2IEHMDudShU0YuxHFrt4Q2jjX-laKlBmwniZrnE9HEWum_ewuBEltnuF4O12_y51PXFSt-iOOf0ZrjjGnR5M3TcjyZmzKHw0LV5_PYyMPt&uniplatform=NZKPT&language=CHS).
 - *2024.Dec.*: &nbsp;🎉 I received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor at Wuhan University.
