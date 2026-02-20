@@ -48,7 +48,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 # 📝 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications 2026</div><img src='images/NC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Satellite mapping of every building’s function in urban China reveals deep built environment disparities, Nature Communications 2026](https://www.nature.com/articles/s41467-026-69589-5)
+[Satellite mapping of every building’s function in urban China reveals deep built environment disparities, *Nature Communications 2026*](https://www.nature.com/articles/s41467-026-69589-5)
   
 [**Code and data**](https://github.com/LiZhuoHong/SinoBF-1/) 
 **Zhuohong Li**, Linxin Li, Ting Hu, Mofan Cheng, Wei He, Tong Qiu, Liangpei Zhang, Hongyan Zhang
