@@ -51,6 +51,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 [Satellite mapping of every building’s function in urban China reveals deep built environment disparities](https://www.nature.com/articles/s41467-026-69589-5)
   
 **Nature Communications 2026**
+
 [**Code and data**](https://github.com/LiZhuoHong/SinoBF-1/) 
 **Zhuohong Li**, Linxin Li, Ting Hu, Mofan Cheng, Wei He, Tong Qiu, Liangpei Zhang, Hongyan Zhang
   
@@ -61,6 +62,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 [Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels](https://arxiv.org/abs/2403.02746)
 
 **CVPR 2024 (Highlight)**
+
 [**Code and data**](https://github.com/LiZhuoHong/Paraformer/) - score:5/5/4.
 **Zhuohong Li**, Wei He, Jiepan Li, Fangxiao Lu, Hongyan Zhang
 
@@ -72,6 +74,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 [SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data **(SCI Q1 TOP, IF=11.4)**](https://essd.copernicus.org/preprints/essd-2023-87/)
   
 **ESSD 2023 (ESI highly cited paper)**
+
 [**Data download**](https://zenodo.org/record/8105314) - 102,080 Download.
 
 **Zhuohong Li**, Wei He, Mofan Cheng, Jingxin Hu, Guangyi Yang, Hongyan Zhang
@@ -82,6 +85,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 [Breaking the resolution barrier: A low-to-high network for large-scale high-resolution land-cover mapping using low-resolution labels **(SCI Q1 TOP, IF=12.7)**](https://www.sciencedirect.com/science/article/abs/pii/S0924271622002180)
   
 **ISPRS P&RS 2022**
+
 **Zhuohong Li**, Hongyan Zhang, Fangxiao Lu, Ruoyao Xue, Guangyi Yang, Liangpei Zhang
 
 </div>
@@ -91,6 +95,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 [Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework]([https://arxiv.org/pdf/2404.12721])
 
 **CVPR Workshop 2024**
+
 [**Code and data**](https://github.com/LiZhuoHong/SegLand/)
 
 **Zhuohong Li**, Wei He, Jiepan Li, Hongyan Zhang
@@ -101,6 +106,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 [The Outcome of the 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection **(SCI Q2, IF=5.5)**](https://ieeexplore.ieee.org/document/9690575)
 
 **IEEE JSTARS 2022**
+
 **Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Naoto Yokoya
 </div>
 </div>
