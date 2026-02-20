@@ -65,6 +65,8 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 2024</div><img src='images/Motivation_v3.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<!--
 [Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data](https://ieeexplore.ieee.org/document/10641437)
   
 [**Data**](https://github.com/LiZhuoHong/BuildingMap/?tab=readme-ov-file) 
@@ -74,15 +76,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/CVPRW_Paper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework]([https://arxiv.org/pdf/2404.12721])
-
-[**Code and data**](https://github.com/LiZhuoHong/SegLand/)
-
-**Zhuohong Li**, Wei He, Jiepan Li, Hongyan Zhang
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+-->
 [SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data **(SCI Q1 TOP, IF=11.4)**](https://essd.copernicus.org/preprints/essd-2023-87/)
   
 [**Data download**](https://zenodo.org/record/8105314) - 102,080 Download.
@@ -100,6 +94,16 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2021</div><img src='images/JSTARS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[Generalized Few-Shot Meets Remote Sensing: Discovering Novel Classes in Land Cover Mapping via Hybrid Semantic Segmentation Framework]([https://arxiv.org/pdf/2404.12721])
+
+[**Code and data**](https://github.com/LiZhuoHong/SegLand/)
+
+**Zhuohong Li**, Wei He, Jiepan Li, Hongyan Zhang
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='images/SinoLC-1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 [The Outcome of the 2021 IEEE GRSS Data Fusion Contest—Track MSD: Multitemporal Semantic Change Detection **(SCI Q2, IF=5.5)**](https://ieeexplore.ieee.org/document/9690575)
 
 **Zhuohong Li**, Fangxiao Lu, Hongyan Zhang, ..., Naoto Yokoya
