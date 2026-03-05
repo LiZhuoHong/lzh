@@ -219,9 +219,9 @@ I joined the soccer team at Duke University.
 
 </div>
     <!-- World map flag counter -->
-     <a href="https://info.flagcounter.com/Gupv">
+     <!-- <a href="https://info.flagcounter.com/Gupv">
          <img src="https://s01.flagcounter.com/map/Gupv/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" 
-           alt="Flag Counter" border="0" style="border-radius:6px;">
+           alt="Flag Counter" border="0" style="border-radius:6px;">-->
 
     <!-- Total flag counter 1 -->
      <a href="https://info.flagcounter.com/GvHh">
