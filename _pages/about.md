@@ -202,31 +202,4 @@ I joined the soccer team at Duke University.
 </div>
 
 <!-- ==================== Page Visitor Section ==================== -->
-# 💬 Page Visitor
 
-<div class="visitor-section" style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px; margin-top: 15px;">
-
-  <!-- 顶部访客徽章 -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge" style="margin-bottom: 5px;">
-<div style="display: flex; flex-direction: row; justify-content: flex-start; align-items: flex-start; gap: 5px;">
-
-
-    <!-- Flag Counter -->
-    <a href="https://info.flagcounter.com/NkeR">
-        <img src="https://s05.flagcounter.com/count2_US/NkeR/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
-             alt="Flag Counter" border="0" style="border-radius:6px;">
-    </a>
-    <!-- World map flag counter -->
-     <!-- <a href="https://info.flagcounter.com/Gupv">
-         <img src="https://s01.flagcounter.com/map/Gupv/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" 
-           alt="Flag Counter" border="0" style="border-radius:6px;">-->
-
-    <!-- Total flag counter 1 -->
-    <!--  <a href="https://info.flagcounter.com/GvHh">
-     <img src="https://s01.flagcounter.com/count2/GvHh/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_12/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" 
-           alt="Flag Counter" border="0" style="border-radius:6px;">-->
-
-
-
-  </div>
-</div>
