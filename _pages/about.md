@@ -22,7 +22,7 @@ I received my B.S. degree of communication engineering from Wuhan University (20
 
 My research interests include weakly-supervised semantic segmentation, land cover mapping, and large-scale Earth observation applications. 
 
-Email: **zhuohong.li@duke.edu**
+Email: **zhuohong.li@duke.edu** Zhuohong Li (李卓鸿)
 
 Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
 # 📖 Academic Service
