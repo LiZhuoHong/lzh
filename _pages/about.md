@@ -32,7 +32,7 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 # 🔥 News
 - *2025.Nov.*: &nbsp;🎉 Our paper"Satellite mapping of every building’s function in urban China reveals deep built environment disparities" has been accepted by **Nature Communications**.
 - *2025.Sep.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2)[**Paper**](https://www.sciencedirect.com/science/article/pii/S0924271625002540) and IEEE TGRS (8.6)[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124258).
-- *2025.Feb.*: &nbsp;🎉 My stories during PhD studies were published in a magazine of the China Ministry of Education. [**Check here**](https://ersp.lib.whu.edu.cn/s/net/cnki/kns/G.https/kcms2/article/abstract?v=d24vdHNzaZj3AJ4BwzkIi-WAlZGNfoUsbXPlOYK_gFd6ZV8EfLaUoseBF0AZHTxBpJHywq1FjCOnOiFqHScflj2IEHMDudShU0YuxHFrt4Q2jjX-laKlBmwniZrnE9HEWum_ewuBEltnuF4O12_y51PXFSt-iOOf0ZrjjGnR5M3TcjyZmzKHw0LV5_PYyMPt&uniplatform=NZKPT&language=CHS).
+- *2025.Feb.*: &nbsp;🎉 My stories during PhD studies were published in a magazine of the China Ministry of Education. [**Check here**](https://mp.weixin.qq.com/s?__biz=MzA4OTMwMTM3NA==&mid=2650715150&idx=1&sn=f36bad6cba0ee4b763e83ae640ec7823&chksm=891bb75c309854fbdd50d0a122c1859c25620c32a2ff1c72190ae44d357c0c520e70952bc094&scene=27).
 - *2024.Dec.*: &nbsp;🎉 I received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor at Wuhan University.
 - *2024.Dec.*: &nbsp;🎉 I won the 2024 National Scholarship for Graduate Student (博士研究生国家奖学金), ranking FIRST in LIESMARS.
 - *2024.Dec.*: &nbsp;🎉 A research has been posted on AGU 2024 (Washington, DC, USA). 
