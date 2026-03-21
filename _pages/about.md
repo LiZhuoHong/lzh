@@ -163,8 +163,10 @@ Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 - *2023* The second prize: China National University Opt-Sci-Tech Competition. 
 
 # 💬 Conference oral presentation
-- *2024*, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2024, Seattle, USA.
-- *2023*, IEEE 11th International Conference on Agro-Geoinformatics, Wuhan, China.
+- *2025*, American Geophysical Union (AGU) Fall Meeting, New Orleans, USA.
+- *2025*, The 2nd International Symposium on Intelligent Remote Sensing Mapping, Hong Kong, China.
+- *2024*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Athens, Greece.
+- *2024*, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA.
 - *2022*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Kuala Lumpur, Malaysia.
 - *2021*, IEEE International Geoscience and Remote Sensing Symposium (IGRASS), Brussels, Belgium.
 
