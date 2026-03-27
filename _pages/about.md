@@ -27,23 +27,8 @@ Email: **zhuohong.li@duke.edu**    ——**Zhuohong Li (李卓鸿)**
 Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0JA4AAAAJ&hl=en&oi=ao)
 # 📖 Academic Service
 - **Guest Editor**: Guest Editor of *Remote Sensing*, leading the special issue "Advances in Multispectral Image Processing for Land Use and Land Cover Mapping" with co-editors I invited from the University of Tokyo, the University of Hong Kong, and Wuhan University; And co-Guest Editor of the special issue "Remote Sensing Intelligent Interpretation in the Era of Large Models and Intelligent Agents", working with Dr. Yongqiang Mao from Tsinghua University
-- **Reviewer**: Served as a reviewer of <**CVPR**>，<**NeurIPS**>, <**IEEE TPAMI**>, <**ECCV**>, <Earth System Science Data (**ESSD**)>, <Scientific Data>, <**ISPRS P&RS**>, <**IEEE TGRS**>, <**JAG**>, <**IEEE JSTARS**>, <Journal of Remote Sensing (**JRS**)>, <**Remote Sensing**>, and <**Sensor**>. 
+- **Reviewer**: Served as a reviewer of <**CVPR**>，<**NeurIPS**>, <**IEEE TPAMI**>, <**ECCV**>, <Earth System Science Data (**ESSD**)>, <**Scientific Data**>, <**ISPRS P&RS**>, <**IEEE TGRS**>, <**JAG**>, <**IEEE JSTARS**>, <Journal of Remote Sensing (**JRS**)>, <**Remote Sensing**>, and <**Sensor**>. 
 
-# 🔥 News
-- *2025.Nov.*: &nbsp;🎉 Our paper"Satellite mapping of every building’s function in urban China reveals deep built environment disparities" has been accepted by **Nature Communications**.
-- *2025.Sep.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2)[**Paper**](https://www.sciencedirect.com/science/article/pii/S0924271625002540) and IEEE TGRS (8.6)[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124258).
-- *2025.Feb.*: &nbsp;🎉 My stories during PhD studies were published in a magazine of the China Ministry of Education. [**Check here**](https://mp.weixin.qq.com/s?__biz=MzA4OTMwMTM3NA==&mid=2650715150&idx=1&sn=f36bad6cba0ee4b763e83ae640ec7823&chksm=891bb75c309854fbdd50d0a122c1859c25620c32a2ff1c72190ae44d357c0c520e70952bc094&scene=27).
-- *2024.Dec.*: &nbsp;🎉 I received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor at Wuhan University.
-- *2024.Dec.*: &nbsp;🎉 I won the 2024 National Scholarship for Graduate Student (博士研究生国家奖学金), ranking FIRST in LIESMARS.
-- *2024.Dec.*: &nbsp;🎉 A research has been posted on AGU 2024 (Washington, DC, USA). 
-- *2024.Nov.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2). 
-- *2024.Oct.*: &nbsp;🎉 I received the Postdoc offer from Duke University. 
-- *2024.Apr.*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
-- *2024.Apr.*: &nbsp;🎉 The CVPR 2024 L3D-LIV Workshop has accepted the SegLand.
-- *2024.Apr.*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
-- *2024.Feb.*: &nbsp;🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
-- *2023.June*: &nbsp;🎉 The SinoLC-1 has been downloaded over 100,000 times. 
-- *2023.Mar.*: &nbsp;🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
 
 # 📝 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications 2026</div><img src='images/NC.png' alt="sym" width="100%"></div></div>
@@ -152,7 +137,6 @@ Google scholar: [**Zhuohong Li**](https://scholar.google.com/citations?user=cZt0
 <div class='paper-box-text' markdown="1">
 Second place: 2023 Cross-city Multimodal Semantic Segmentation Challenge of WHISPER
 
-
 Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 </div>
 </div>
@@ -161,7 +145,21 @@ Jiaqi Zou，**Zhuohong Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 - *2019* The first prize: China National Undergraduate Electronics Design Contest. 
 - *2018* The second prize: China National Undergraduate Embedded Chip and System Design Competition. 
 - *2023* The second prize: China National University Opt-Sci-Tech Competition. 
-
+# 🔥 News
+- *2025.Nov.*: &nbsp;🎉 Our paper"Satellite mapping of every building’s function in urban China reveals deep built environment disparities" has been accepted by **Nature Communications**.
+- *2025.Sep.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2)[**Paper**](https://www.sciencedirect.com/science/article/pii/S0924271625002540) and IEEE TGRS (8.6)[**Paper**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11124258).
+- *2025.Feb.*: &nbsp;🎉 My stories during PhD studies were published in a magazine of the China Ministry of Education. [**Check here**](https://mp.weixin.qq.com/s?__biz=MzA4OTMwMTM3NA==&mid=2650715150&idx=1&sn=f36bad6cba0ee4b763e83ae640ec7823&chksm=891bb75c309854fbdd50d0a122c1859c25620c32a2ff1c72190ae44d357c0c520e70952bc094&scene=27).
+- *2024.Dec.*: &nbsp;🎉 I received the "Wang Zhizhuo Innovation Talent Award" (王之卓创新人才奖). The greatest honor at Wuhan University.
+- *2024.Dec.*: &nbsp;🎉 I won the 2024 National Scholarship for Graduate Student (博士研究生国家奖学金), ranking FIRST in LIESMARS.
+- *2024.Dec.*: &nbsp;🎉 A research has been posted on AGU 2024 (Washington, DC, USA). 
+- *2024.Nov.*: &nbsp;🎉 Two papers have been accepted by ISPRS P&RS (IF=12.2). 
+- *2024.Oct.*: &nbsp;🎉 I received the Postdoc offer from Duke University. 
+- *2024.Apr.*: &nbsp;🎉 We won first place in the CVPR 2024 OpenEarthMap Land Cover Mapping challenge. 
+- *2024.Apr.*: &nbsp;🎉 The CVPR 2024 L3D-LIV Workshop has accepted the SegLand.
+- *2024.Apr.*: &nbsp;🎉 The Paraformer has been posted as **Highlight** in CVPR 2024.
+- *2024.Feb.*: &nbsp;🎉 The Paraformer has been accepted by CVPR 2024 with a score of 5/5/4. 
+- *2023.June*: &nbsp;🎉 The SinoLC-1 has been downloaded over 100,000 times. 
+- *2023.Mar.*: &nbsp;🎉 SinoLC-1: The first 1-meter resolution national-scale land-cover map of China has been open-accessed.
 # 💬 Conference oral presentation
 - *2025*, American Geophysical Union (AGU) Fall Meeting, New Orleans, USA.
 - *2025*, The 2nd International Symposium on Intelligent Remote Sensing Mapping, Hong Kong, China.
